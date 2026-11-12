@@ -13,10 +13,14 @@
 - [Deployment](#deployment)
 - [Contributors](#contributors)
 - [Contributing](#contributing)
-
+- [Live Demo](#live-demo)
 ## 📝 Description
 
 DiagnoseMyPlant — a software project built with Docker, Python.
+
+## 🚀 Live Demo
+
+[View the Live Project Here](https://huggingface.co/spaces/AmilSiddiqui/DiagnoseMyPlant)
 
 ## 🛠️ Tech Stack
 
@@ -59,3 +63,4 @@ google-generativeai: latest
 ├── static
 │   └── uploads
 │       ├── 00bc7858-1dca-4bfb-a828-225f03bd72a5___Com.G_SpM_FL 9455_180deg.JPG
+
